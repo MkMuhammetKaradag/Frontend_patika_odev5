@@ -1,6 +1,6 @@
 # Lİve
 
--[Live] (https://main--gregarious-tartufo-ed81e3.netlify.app/coin/wrapped-bitcoin)
+-[Live] (https://main--gregarious-tartufo-ed81e3.netlify.app/)
 
 # React + TypeScript + Vite
 
